@@ -3,7 +3,9 @@ Abhiruchi Jaiswal
 
   
 6th Avenue, Gaur City 1 Noida
+
 er.abhiruchijais@gmail.com
+
 +91-8299600454
    
 
@@ -20,7 +22,7 @@ Education
 2015-07 - 2019-06
 :   **BACHELORS OF TECHNOLOGY, COMPUTER SCIENCE ENGINEER**;
 
-    *Shambhunath Institute Of Engineering & Technology - Prayagraj*
+    Shambhunath Institute Of Engineering & Technology - Prayagraj
     
 Skills
 -------
