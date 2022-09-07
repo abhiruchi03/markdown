@@ -10,7 +10,9 @@ Noida
 About Me
 ----------
 
-A hard-working and self-motivated individual, looking out for opportunities in Customer Success Manager or Implementation Engineer to expand the business and provide solutions through a creative yet pragmatic approach.
+A hard-working and self-motivated individual, looking out for opportunities in Customer Success Manager 
+or Implementation Engineer to expand the business and provide solutions through a creative yet pragmatic 
+approach.
 
 Education
 ---------
@@ -50,7 +52,8 @@ Work Experience
 2019-11 - 2022-03
 :   **Implementation Engineer & Customer Success - SAAS Project**; Zilingo Global Pvt Ltd, Singapore
 
-    *Zfactory software requirements from the factory in terms of the product and planning end to end the operations required for a successful Zfactory software implementation.*
+    *Zfactory software requirements from the factory in terms of the product and planning 
+    end to end the operations required for a successful Zfactory software implementation.*
     
   * Conduct meet-ups with key business users to collect information on business processes and user requirements.
   * Advise on hardware specifications to be procured by client.
