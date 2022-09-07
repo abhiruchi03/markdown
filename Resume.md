@@ -1,11 +1,11 @@
 Abhiruchi Jaiswal
 ============
 
--------------------     ----------------------------
-6th Avenue               er.abhiruchijais@gmail.com
-Gaur City 1                         +91-8299600454
-Noida                               
--------------------     ----------------------------
+-------------------     
+6th Avenue, Gaur City 1 Noida
+er.abhiruchijais@gmail.com
++91-8299600454
+-------------------    
 
 About Me
 ----------
@@ -23,7 +23,7 @@ Education
     *Shambhunath Institute Of Engineering & Technology - Prayagraj*
     
 Skills
-----------------------------------------
+-------
 
 * SaaS Implementation
 * Customer Success
@@ -38,7 +38,7 @@ Skills
 * Project Management
 
 Work Experience
-----------
+---------------
 
 2022-04 - Current
 :   **Solution Engineer - SAAS Project**; Zilingo Global Pvt Ltd, Singapore
@@ -66,7 +66,7 @@ Work Experience
   * Make clients aware of current program and upcoming road map.
 
 Project
---------------------
+-------
 
 **Implement zFactory Software**
 
@@ -78,27 +78,27 @@ SaaS Project
     * Provide user manual video's for better understanding.
 
 Tools
-----------------------------------------
+-----
 
 * JIRA
 * FLEEQ
 * MS - Office
 
 Certifications
-----------------------------------------
+--------------
 
 * Internshala - Web Development
 * Softpro Group of Companies - Trained on Python
 
 Achievements
-----------------------------------------
+------------
 
 * Won 2nd prize in “Solicit” event in Tech Fest EUREKA 2K17. 
 * Won 1st (Zonal Level) & 2nd (State Level) prize in “3D-Rangoli” event held at Dr. APJ Abdul Kalam Arts & cultural fest. 
 * Won 1st prize in “Group Dance” in Tech Fest EUREKA 2K17 & also in “Women Cricket Match” event in Zonal Sports 2K17. 
 
 Interest
-----------------------------------------
+--------
 
 * Travel
 * Styling
