@@ -2,7 +2,7 @@ Abhiruchi Jaiswal
 ============
 
 -------------------     ----------------------------
-6th Avenue,               er.abhiruchijais@gmail.com
+6th Avenue               er.abhiruchijais@gmail.com
 Gaur City 1                         +91-8299600454
 Noida                               
 -------------------     ----------------------------
