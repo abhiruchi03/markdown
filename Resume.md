@@ -23,8 +23,7 @@ Education
 
 |Courses|Institute|Board/University|Year Of Passing|Percentage|
 |-------|---------|----------------|---------------|----------|
-|B-Tech(CSE)|Shambhunath Institute of Engineering
-And Technology, Prayagraj|AKTU|2019|74%|
+|B-Tech(CSE)|Shambhunath Institute of Engineering And Technology, Prayagraj|AKTU|2019|74%|
     
 Skills
 -------
