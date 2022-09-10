@@ -22,7 +22,7 @@ approach.
 Education
 ---------
 
-|Courses|Institute|Board/University|Year Of Passing|Percentage|
+|:-:Courses|Institute|Board/University|Year Of Passing|Percentage|
 |-------|---------|----------------|---------------|----------|
 |B-Tech(CSE)|Shambhunath Institute of Engineering And Technology, Prayagraj|AKTU|2019|74%|
 |XII|Bishop Johnson School & College, Prayagraj|ISC|2015|70%|
