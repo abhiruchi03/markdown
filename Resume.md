@@ -1,4 +1,5 @@
-# Abhiruchi Jaiswal
+Abhiruchi Jaiswal
+============
 
 
 
@@ -20,10 +21,10 @@ approach.
 Education
 ---------
 
-2015-07 - 2019-06
-:   **BACHELORS OF TECHNOLOGY, COMPUTER SCIENCE ENGINEER**;
-
-    Shambhunath Institute Of Engineering & Technology - Prayagraj
+|Courses|Institute|Board/University|Year Of Passing|Percentage|
+|-------|---------|----------------|---------------|----------|
+|B-Tech(CSE)|Shambhunath Institute of Engineering
+And Technology, Prayagraj|AKTU|2019|74%|
     
 Skills
 -------
