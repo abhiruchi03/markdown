@@ -30,4 +30,4 @@ locations in Measles Chart.
 target / Hourly actuals / cumulative target / cumulative actuals / hourly behind /
 cumulative behind / hourly efficiency/ hourly FTT percentage.
 
-https://github.com/abhiruchi03/markdown.wiki.git
+[Line Wise Dashboards](https://github.com/abhiruchi03/markdown.wiki.git)
