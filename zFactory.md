@@ -32,4 +32,4 @@ cumulative behind / hourly efficiency/ hourly FTT percentage.
 
 ![Line Wise Dashboards](https://github.com/abhiruchi03/markdown.wiki.git)
 
-https://www.google.com/search?q=zilingo+software&tbm=isch&hl=en&chips=q:zilingo+software,online_chips:sri+lankan:CuwI-i4NYbs%3D&sa=X&ved=2ahUKEwil-tiIpqD6AhUy_jgGHXqcC6IQ4lYoAnoECAEQJQ&biw=1428&bih=756#imgrc=nDq7MfwcuZRjgM
+![Line Wise Dashboards](https://www.google.com/search?q=zilingo+software&tbm=isch&hl=en&chips=q:zilingo+software,online_chips:sri+lankan:CuwI-i4NYbs%3D&sa=X&ved=2ahUKEwil-tiIpqD6AhUy_jgGHXqcC6IQ4lYoAnoECAEQJQ&biw=1428&bih=756#imgrc=nDq7MfwcuZRjgM)
