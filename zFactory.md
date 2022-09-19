@@ -30,6 +30,11 @@ locations in Measles Chart.
 target / Hourly actuals / cumulative target / cumulative actuals / hourly behind /
 cumulative behind / hourly efficiency/ hourly FTT percentage.
 
-![Line Wise Dashboards](https://github.com/abhiruchi03/markdown.wiki.git)
+![Line](https://www.indianretailer.com/interview/retail-people/profiles/e-commerce-unicorn-zilingo-betting-big-on-seamless-technology-driven-fashion-supply-chain.i1899/)
 
-![Line Wise Dashboards](https://www.google.com/search?q=zilingo+software&tbm=isch&hl=en&chips=q:zilingo+software,online_chips:sri+lankan:CuwI-i4NYbs%3D&sa=X&ved=2ahUKEwil-tiIpqD6AhUy_jgGHXqcC6IQ4lYoAnoECAEQJQ&biw=1428&bih=756#imgrc=nDq7MfwcuZRjgM)
+![Dashboards](https://github.com/abhiruchi03/markdown.wiki.git)
+
+<img src="https://www.google.com/search?q=zilingo+software&tbm=isch&hl=en&chips=q:zilingo+software,online_chips:sri+lankan:CuwI-i4NYbs%3D&sa=X&ved=2ahUKEwil-tiIpqD6AhUy_jgGHXqcC6IQ4lYoAnoECAEQJQ&biw=1428&bih=756#imgrc=nDq7MfwcuZRjgM" alt="Line" title="Line Wise">
+
+[[https://github.com/abhiruchi03/markdown.wiki.git |Line Wise Dashboards]]
+
